@@ -1,0 +1,16 @@
+//
+//  TKHealth.pch
+//  HealthKitDemo
+//
+//  Created by zw on 2019/4/29.
+//  Copyright © 2019 yunlong. All rights reserved.
+//
+
+#ifndef TKHealth_pch
+#define TKHealth_pch
+#import "TKNumberDefine.h"
+#import <HealthKit/HealthKit.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* TKHealth_pch */
